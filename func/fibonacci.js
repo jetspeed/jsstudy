@@ -9,4 +9,4 @@ function Fibonacci2(n, ac1 = 1, ac2 = 1){
 }
 
 console.log(Fibonacci(10));
-console.log(Fibonacci2(100));
+console.log(Fibonacci2(1000));
